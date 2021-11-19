@@ -1,6 +1,6 @@
 # [Rodrigo Palazon](https://rodrigopalazon.github.io/milestone_project_1/)
 
-## "Hello, World!" 👋🏻🧔🏻
+## "Hello, World!" 👋🏻 
 
 I am a FrontEnd  Junior Developer. When I'm not developing and studying programming, I'm probably having some fun with friends and enjoying good music! [View my GitHub Profile](https://github.com/RodrigoPalazon).
 
