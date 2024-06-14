@@ -9,7 +9,7 @@ I have a passion for learning and have a particular interest in backend developm
 I am a team player who enjoys connecting and engaging with people. In my free time, I love playing musical instruments and have recently discovered a passion for learning new languages (Dutch is in progress)[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rodrigopalazon/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoPalazon)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### Programming Languages
