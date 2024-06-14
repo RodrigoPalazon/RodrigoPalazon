@@ -2,7 +2,7 @@
 
 ## "Hello, World!" 👋🏻 
 
-Hello! I'm Rodrigo, a Brazilian Junior Developer who has been living in the Netherlands for six years. I have two years of experience in IT software and web development (Javascript, React, HTML, CSS, Java, and Low Code).
+I'm a Brazilian Junior Developer who has been living in the Netherlands for six years. I have two years of experience in IT software and web development (Javascript, React, HTML, CSS, Java, and Low Code).
 
 I have a passion for learning and have a particular interest in backend development. I'm dedicated to mastering my skills in relational databases (e.g. SQL), the Java programming language, the Spring Boot framework, and Docker.
 
