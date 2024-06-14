@@ -13,7 +13,7 @@ I am a team player who enjoys connecting and engaging with people. In my free ti
 ### Programming Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=Java&logoColor=821400)
+![Java](https://img.shields.io/badge/Java%20-%23323330.svg?&style=for-the-badge&logo=Java&logoColor=#400d0e)
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
