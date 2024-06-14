@@ -6,7 +6,7 @@ Hello! I'm Rodrigo, a Brazilian Junior Developer who has been living in the Neth
 
 I have a passion for learning and have a particular interest in backend development. I'm dedicated to mastering my skills in relational databases (e.g. SQL), the Java programming language, the Spring Boot framework, and Docker.
 
-I am a team player who enjoys connecting and engaging with people. In my free time, I love playing musical instruments and have recently discovered a passion for learning new languages (Dutch is in progress).[View my GitHub Profile](https://github.com/RodrigoPalazon).[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rodrigopalazon/)
+I am a team player who enjoys connecting and engaging with people. In my free time, I love playing musical instruments and have recently discovered a passion for learning new languages (Dutch is in progress)[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%230A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/rodrigopalazon/)
 
 ---
 
